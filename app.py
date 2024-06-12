@@ -8,8 +8,8 @@ from PIL import Image
 import mysql.connector
 import subprocess
 
-def nothing():
-    return
+# def nothing():
+#     return
 
 app = Flask(__name__)
 
