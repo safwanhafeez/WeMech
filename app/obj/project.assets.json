@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\safwa\\Desktop\\app\\app.csproj",
+      "projectUniqueName": "C:\\University\\Semester 4\\Fundamentals of Software Engineering\\Project\\beta 1.0.2\\beta 1.0.1\\Main\\WeMech\\app\\app.csproj",
       "projectName": "app",
-      "projectPath": "C:\\Users\\safwa\\Desktop\\app\\app.csproj",
+      "projectPath": "C:\\University\\Semester 4\\Fundamentals of Software Engineering\\Project\\beta 1.0.2\\beta 1.0.1\\Main\\WeMech\\app\\app.csproj",
       "packagesPath": "C:\\Users\\safwa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\safwa\\Desktop\\app\\obj\\",
+      "outputPath": "C:\\University\\Semester 4\\Fundamentals of Software Engineering\\Project\\beta 1.0.2\\beta 1.0.1\\Main\\WeMech\\app\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\safwa\\AppData\\Roaming\\NuGet\\NuGet.Config"
