@@ -8,9 +8,6 @@ from PIL import Image
 import mysql.connector
 import subprocess
 
-def nothing():
-    return
-
 app = Flask(__name__)
 
 cars = pd.read_csv('data/dataset.csv')
